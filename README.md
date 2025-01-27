@@ -12,10 +12,10 @@ You can find:
 - The data used in the session in the [`data`](data/) folder.
 - A Python notebook with the code to scrape the data in the [`notebook.ipynb`](notebook.ipynb) file.
 
-📢 **Coming Soon**  
-This repository will be updated with additional information, including:
-- Configuration steps.
-- FAQs.  
+📢 **Solutions Overview**  
+
+ ![Solutions Overview](/images/diagram_overview.gif)
+  
 
 Stay tuned for updates in **January 2025**!
 
